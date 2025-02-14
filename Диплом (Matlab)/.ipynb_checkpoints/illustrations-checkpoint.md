@@ -1,0 +1,15 @@
+# Расчет промахов в зависимости от уровня шума на входе АА моноимпульсного радиопеленгатора
+## main: ARDF
+![](illustrations/1.png)
+![](illustrations/2.png)
+![](illustrations/3.png)
+![](illustrations/4.png)
+![](illustrations/5.png)
+![](illustrations/6.png)
+![](illustrations/7.png)
+![](illustrations/8.png)
+![](illustrations/9.png)
+![](illustrations/10.png)
+![](illustrations/11.png)
+![](illustrations/12.png)
+![](illustrations/13.png)
